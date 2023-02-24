@@ -39,6 +39,11 @@
         </nav>
 
     </header>
+
+    <?php
+
+        
+    ?>
     <main class="container mt-5 mb-5">
         <!-- <h3 class="text-center text-uppercase mb-3 text-primary">CẢM NHẬN VỀ BÀI HÁT</h3> -->
         <div class="d-flex justify-content-center h-100">
@@ -52,15 +57,15 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <form>
+                        <form method="POST" action="process_user.php">
                             <div class="input-group mb-3">
                                 <span class="input-group-text" id="txtUser"><i class="fas fa-user"></i></span>
-                                <input type="text" class="form-control" placeholder="username" >
+                                <input type="text" class="form-control" placeholder="username" name="username" >
                             </div>
 
                             <div class="input-group mb-3">
                                 <span class="input-group-text" id="txtPass"><i class="fas fa-key"></i></span>
-                                <input type="text" class="form-control" placeholder="password" >
+                                <input type="password" class="form-control" placeholder="password" name="password" >
                             </div>
                             
                             <div class="row align-items-center remember">
