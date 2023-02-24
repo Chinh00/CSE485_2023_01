@@ -15,7 +15,7 @@
 
         include '../../includes/Database.php';
 
-        include '../../hepler/SplitStringByWord.php';
+        include '../../hepler/Support.php';
 
         
 
