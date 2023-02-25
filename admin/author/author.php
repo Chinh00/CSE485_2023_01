@@ -23,6 +23,7 @@
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col">Tên tác giả</th>
+                            <th scope="col">Hình tác giả</th>
                             <th>Sửa</th>
                             <th>Xóa</th>
                         </tr>
@@ -31,6 +32,7 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Nhạc trữ tình</td>
+                            <td><img src="" alt="">
                             <td>
                                 <a href="edit_category.php?id=1"><i class="fa-solid fa-pen-to-square"></i></a>
                             </td>
@@ -41,6 +43,7 @@
                         <tr>
                             <th scope="row">2</th>
                             <td>Nhạc cách mạng</td>
+                            <td><img src="" alt="">
                             <td>
                                 <a href="edit_category.php?id=2"><i class="fa-solid fa-pen-to-square"></i></a>
                             </td>
