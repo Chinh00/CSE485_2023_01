@@ -22,8 +22,7 @@
                     <thead>
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Tên bài viết</th>
-                            <th scope="col">Hình minh họa</th>
+                            <th scope="col">Tên thể loại</th>
                             <th>Sửa</th>
                             <th>Xóa</th>
                         </tr>
@@ -32,7 +31,6 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Nhạc trữ tình</td>
-                            <td><img src="" alt="">
                             <td>
                                 <a href="edit_category.php?id=1"><i class="fa-solid fa-pen-to-square"></i></a>
                             </td>
@@ -43,7 +41,6 @@
                         <tr>
                             <th scope="row">2</th>
                             <td>Nhạc cách mạng</td>
-                            <td><img src="" alt="">
                             <td>
                                 <a href="edit_category.php?id=2"><i class="fa-solid fa-pen-to-square"></i></a>
                             </td>

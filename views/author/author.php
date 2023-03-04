@@ -22,8 +22,8 @@
                     <thead>
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Tên bài viết</th>
-                            <th scope="col">Hình minh họa</th>
+                            <th scope="col">Tên tác giả</th>
+                            <th scope="col">Hình tác giả</th>
                             <th>Sửa</th>
                             <th>Xóa</th>
                         </tr>
