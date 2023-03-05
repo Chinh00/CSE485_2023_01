@@ -17,7 +17,7 @@
         <div class="row">
             <div class="col-sm-3">
                 <div class="card mb-2" style="width: 100%;">
-                    <img src="images/songs/cayvagio.jpg" class="card-img-top" alt="...">
+                    <img src="assets/images/songs/cayvagio.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center">
                             <a href="" class="text-decoration-none">Cây, lá và gió</a>
@@ -28,7 +28,7 @@
 
             <div class="col-sm-3">
                 <div class="card mb-2" style="width: 100%;">
-                    <img src="images/songs/csmt.jpg" class="card-img-top" alt="...">
+                    <img src="assets/images/songs/csmt.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center">
                             <a href="" class="text-decoration-none">Cuộc sống mến thương</a>
@@ -39,7 +39,7 @@
 
             <div class="col-sm-3">
                 <div class="card mb-2" style="width: 100%;">
-                    <img src="images/songs//longme.jpg" class="card-img-top" alt="...">
+                    <img src="assets/images/songs/longme.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center">
                             <a href="" class="text-decoration-none">Lòng mẹ</a>
@@ -50,7 +50,7 @@
 
             <div class="col-sm-3">
                 <div class="card mb-2" style="width: 100%;">
-                    <img src="images/songs/phoipha.jpg" class="card-img-top" alt="...">
+                    <img src="assets/images/songs/phoipha.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center">
                             <a href="" class="text-decoration-none">Phôi pha</a>
@@ -61,7 +61,7 @@
 
             <div class="col-sm-3">
                 <div class="card mb-2" style="width: 100%;">
-                    <img src="images/songs/noitinhyeubatdau.jpg" class="card-img-top" alt="...">
+                    <img src="assets/images/songs/noitinhyeubatdau.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title text-center my-title">
                             <a href="" class="text-decoration-none">Nơi tình yêu bắt đầu</a>
