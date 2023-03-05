@@ -94,7 +94,7 @@ CREATE OR REPLACE TRIGGER "teref"
 AFTER INSERT OR UPDATE OR DELETE ON baiviet
 FOR EACH ROW
 BEGIN
-    SELECT "Run ..."
+    
 END
 
 -- l. Bổ sung thêm bảng Users để lưu thông tin Tài khoản đăng nhập và sử dụng cho chức năng Đăng nhập/Quản trị trang web. (5 đ)
